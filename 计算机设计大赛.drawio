@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T02:05:50.461Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="70edkDk5bCjXtcIYJtQ3" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T02:50:41.297Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="HEsJIobOfBF0_6-tv1Z4" version="17.4.4" type="github">
   <diagram id="vcOXpLogJzYYLjK_w5W-" name="第 1 页">
     <mxGraphModel dx="884" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="9Hl5kyrXBKMWCUE3tDjN-5" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;pytorch&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9Hl5kyrXBKMWCUE3tDjN-2">
           <mxGeometry x="180" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9Hl5kyrXBKMWCUE3tDjN-6" value="百度大脑AI开放平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9Hl5kyrXBKMWCUE3tDjN-2">
+        <mxCell id="9Hl5kyrXBKMWCUE3tDjN-6" value="百度AI开放平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="9Hl5kyrXBKMWCUE3tDjN-2">
           <mxGeometry x="80" y="100" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
