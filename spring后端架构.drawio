@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T01:51:52.054Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="18.1.3" etag="6mNZW7nLLVgfiFVNPFVK" type="github"><diagram id="ujUC3qfa5W6jYoHCBOpR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T02:08:58.485Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Nz6NalLpL1fSLXXFH3Mp" version="18.1.3" type="github">
+  <diagram id="ujUC3qfa5W6jYoHCBOpR" name="第 1 页">
+    <mxGraphModel dx="803" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k32MROpHgN_sFm9yG-mf-3" value="spring" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-20" width="480" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k32MROpHgN_sFm9yG-mf-3" source="k32MROpHgN_sFm9yG-mf-4" target="k32MROpHgN_sFm9yG-mf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-4" value="通过映射的方式调用底层jdbc往mysql中放入数据" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k32MROpHgN_sFm9yG-mf-3" source="k32MROpHgN_sFm9yG-mf-5" target="k32MROpHgN_sFm9yG-mf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-5" value="通过映射的方式调用jdbc获取mysql数据" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="k32MROpHgN_sFm9yG-mf-3" source="k32MROpHgN_sFm9yG-mf-8" target="k32MROpHgN_sFm9yG-mf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-8" value="配置mybaties的sql映射&lt;br&gt;即配置mapper层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="280" y="30" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="k32MROpHgN_sFm9yG-mf-3" source="k32MROpHgN_sFm9yG-mf-11" target="k32MROpHgN_sFm9yG-mf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-11" value="sql映射依赖注入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-13" value="使用servelet和得到的数据，来配置每个网络请求相应的处理方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="k32MROpHgN_sFm9yG-mf-3" source="k32MROpHgN_sFm9yG-mf-13" target="k32MROpHgN_sFm9yG-mf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-20" value="通过jdbc mybaties连接数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="300" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k32MROpHgN_sFm9yG-mf-3" source="k32MROpHgN_sFm9yG-mf-23" target="k32MROpHgN_sFm9yG-mf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-23" value="将mybaties放入bean工厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k32MROpHgN_sFm9yG-mf-3">
+          <mxGeometry x="110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k32MROpHgN_sFm9yG-mf-1" target="k32MROpHgN_sFm9yG-mf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="230" />
+              <mxPoint x="635" y="280" />
+              <mxPoint x="520" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-1" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" vertex="1" parent="1">
+          <mxGeometry x="690" y="140" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k32MROpHgN_sFm9yG-mf-14" target="k32MROpHgN_sFm9yG-mf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-14" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="116" width="72.54" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k32MROpHgN_sFm9yG-mf-13" target="k32MROpHgN_sFm9yG-mf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k32MROpHgN_sFm9yG-mf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k32MROpHgN_sFm9yG-mf-20" target="k32MROpHgN_sFm9yG-mf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
