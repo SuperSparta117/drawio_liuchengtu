@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZDyfqU8U48T_e9WPzMG-153" value="Second-stage selection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="699" y="523" width="80" height="78" as="geometry" />
+          <mxGeometry x="710" y="523" width="80" height="78" as="geometry" />
         </mxCell>
         <mxCell id="YZDyfqU8U48T_e9WPzMG-149" value="&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;e&lt;sup&gt;(0)&lt;/sup&gt;&lt;sub&gt;i4&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="513" y="523" width="60" height="30" as="geometry" />
