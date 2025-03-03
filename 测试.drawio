@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tCSOFyDIzmeTxJanoV6C-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="302.63" y="861" width="336.75" height="159" as="geometry" />
+        </mxCell>
         <mxCell id="_-cmMSH2O4cLz9NhAA3f-242" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1416" y="161.25" width="94" height="431.51" as="geometry" />
         </mxCell>
@@ -488,7 +491,7 @@
         <mxCell id="tCSOFyDIzmeTxJanoV6C-2" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="tCSOFyDIzmeTxJanoV6C-3" target="tCSOFyDIzmeTxJanoV6C-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tCSOFyDIzmeTxJanoV6C-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;x&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;个体和群体的行为特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tCSOFyDIzmeTxJanoV6C-3" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;输入要素&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="99.25" y="943" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tCSOFyDIzmeTxJanoV6C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCSOFyDIzmeTxJanoV6C-5" target="tCSOFyDIzmeTxJanoV6C-9">
@@ -522,7 +525,7 @@
           <mxGeometry x="473.75" y="987" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tCSOFyDIzmeTxJanoV6C-14" value="残差连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375.25" y="876" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="866" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tCSOFyDIzmeTxJanoV6C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCSOFyDIzmeTxJanoV6C-16" target="tCSOFyDIzmeTxJanoV6C-18">
           <mxGeometry relative="1" as="geometry" />
@@ -535,9 +538,6 @@
         </mxCell>
         <mxCell id="tCSOFyDIzmeTxJanoV6C-18" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;V(1,2...t)&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="662.75" y="927" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tCSOFyDIzmeTxJanoV6C-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="319.25" y="877" width="327" height="138" as="geometry" />
         </mxCell>
         <mxCell id="tCSOFyDIzmeTxJanoV6C-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="231.75" y="916" width="21" height="84" as="geometry" />
@@ -577,6 +577,14 @@
         </mxCell>
         <mxCell id="tCSOFyDIzmeTxJanoV6C-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="tCSOFyDIzmeTxJanoV6C-24" target="tCSOFyDIzmeTxJanoV6C-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCSOFyDIzmeTxJanoV6C-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCSOFyDIzmeTxJanoV6C-21" target="tCSOFyDIzmeTxJanoV6C-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326.8114318847656" y="812.9539337158203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tCSOFyDIzmeTxJanoV6C-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441" y="831" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
