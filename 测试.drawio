@@ -4,47 +4,81 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g_aMC2y85VkhGgESPOAr-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="68" y="130.5" width="108" height="98" as="geometry" />
+        </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="70" y="231" width="705" height="92" as="geometry" />
+          <mxGeometry x="68" y="228" width="671" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-1" target="g_aMC2y85VkhGgESPOAr-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-1" value="&lt;p id=&quot;20250605150756-m57kz3g&quot;&gt;多样性计算&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="87" y="253" width="88" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-2" target="g_aMC2y85VkhGgESPOAr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-2" value="&lt;p id=&quot;20250605150648-wfu5brx&quot;&gt;svm模型训练&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="153" width="82" height="37" as="geometry" />
+          <mxGeometry x="189" y="161" width="82" height="37" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-3" value="&lt;p id=&quot;20250605150657-xqh7tbw&quot;&gt;交叉验证评估&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="151" width="82" height="37" as="geometry" />
+          <mxGeometry x="295" y="161" width="82" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-5" target="g_aMC2y85VkhGgESPOAr-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="180" />
+              <mxPoint x="503" y="226" />
+              <mxPoint x="49" y="226" />
+              <mxPoint x="49" y="272" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-5" value="&lt;p id=&quot;20250605150705-k4xwy9y&quot;&gt;计算适应度&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="151" width="82" height="37" as="geometry" />
+          <mxGeometry x="401" y="161" width="82" height="37" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-11" value="遗传算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="76" y="323" width="60" height="30" as="geometry" />
+          <mxGeometry x="68" y="126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-12" target="g_aMC2y85VkhGgESPOAr-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-12" value="初始化种群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="161" width="82" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-13" target="g_aMC2y85VkhGgESPOAr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-13" value="&lt;p id=&quot;20250605150808-c38ys9k&quot;&gt;变异率动态计算&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="253" width="94" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-14" target="g_aMC2y85VkhGgESPOAr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-14" value="&lt;p id=&quot;20250605150833-yvajk4o&quot;&gt;小生境选择&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446" y="258" width="94" height="37" as="geometry" />
+          <mxGeometry x="414" y="253" width="94" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-16" target="g_aMC2y85VkhGgESPOAr-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-16" value="&lt;p id=&quot;20250605150823-prr1xen&quot;&gt;精英保留&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="266" width="94" height="37" as="geometry" />
+          <mxGeometry x="303" y="253" width="94" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="g_aMC2y85VkhGgESPOAr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-17" target="g_aMC2y85VkhGgESPOAr-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-17" value="&lt;p id=&quot;20250605150841-0y4gk4f&quot;&gt;混合交叉变异&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="548" y="258" width="94" height="37" as="geometry" />
+          <mxGeometry x="523" y="253" width="94" height="37" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-18" value="&lt;p id=&quot;20250605150845-gqiz0od&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711.7785491943359" y="346.6820373535156" width="76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_aMC2y85VkhGgESPOAr-19" value="&lt;p id=&quot;20250605150841-0y4gk4f&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;更新种群&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="653" y="253" width="94" height="37" as="geometry" />
+          <mxGeometry x="637" y="253" width="94" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="g_aMC2y85VkhGgESPOAr-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="73" y="133" width="94" height="98" as="geometry" />
+        <mxCell id="g_aMC2y85VkhGgESPOAr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.084;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g_aMC2y85VkhGgESPOAr-3" target="g_aMC2y85VkhGgESPOAr-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
